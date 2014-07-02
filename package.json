@@ -1,0 +1,29 @@
+{
+  "name": "taupins",
+  "version": "0.0.0",
+  "description": "la taupe au taupins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davyengone/taupins"
+  },
+  "keywords": [
+    "classes",
+    "préparatoires",
+    "aux",
+    "grandes",
+    "écoles"
+  ],
+  "author": "Davy Engone <davy@philos.io> (http://www.philos.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davyengone/taupins/issues"
+  },
+  "homepage": "https://github.com/davyengone/taupins",
+  "dependencies": {
+    "express": "^3.12.1"
+  }
+}
